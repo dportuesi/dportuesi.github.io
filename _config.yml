@@ -11,9 +11,9 @@ title                    : "Domenic Portuesi"
 title_separator          : "-"
 name                     : "Domenic Portuesi"
 description              : "Portfolio for Domenic Portuesi, JavaFX and C++ Software Engineer. Wordpress/Woocommerce Developer."
-url                      : "http://domenicportuesi.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dportuesi.github.io/dportuesi.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Toasterfork/Toasterfork.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/dportuesi/dportuesi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,9 +77,9 @@ analytics:
 # Site Author
 author:
   name             : "Domenic Portuesi"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Java, JavaFX, C++ Software Engineer, Wordpress/Woocommerce Developer, and PC gamer."
-  location         : "Michigan, U.S.A."
+  avatar           : "https://avatars0.githubusercontent.com/u/2602097?s=460&v=4"
+  bio              : "Java and C# Software Engineer, Android Developer and PC gamer."
+  location         : "Michigan, U.S."
   email            : "dportuesi@gmail.com"
   uri              :
   bitbucket        :
@@ -88,12 +88,12 @@ author:
   flickr           :
   facebook         : "dportuesi"
   foursquare       :
-  github           : "Toasterfork"
+  github           : "dportuesi"
   google_plus      :
   keybase          :
   instagram        : "domenicportuesi"
   lastfm           :
-  linkedin         :
+  linkedin         : "domenic-portuesi-0b7aa8121"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
