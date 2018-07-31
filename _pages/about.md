@@ -16,7 +16,7 @@ My name is Domenic Portuesi, and I am a Software Engineer and Android Developer.
 
 I am also proficient in Android Studio and Android SDK.
 
-Want to hire me? Check out my [Resume!](https://docs.google.com/document/d/1xuZmei_FVNWlI181j2pJGTCzO3da4-_5vzL_1j4FcQA/edit?usp=sharing) You can also shoot me an email at dportuesi@gmail.com.
+Want to hire me? Check out my [Resume!](https://drive.google.com/open?id=13qLY-NPOi-xO0C2wrYKYADone1fjxBFI) You can also shoot me an email at dportuesi@gmail.com.
 
 Currently, I am a Computer Science student attending Michigan Tech University.
 
