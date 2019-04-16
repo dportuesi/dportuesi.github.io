@@ -3,15 +3,15 @@ title: "Superclip Clipboard Manager for Desktop and Mobile"
 excerpt: "A beautiful, cross platform app that manages all your clipdata and sync's them across all devices."
 header:
   image:
-  teaser: "/assets/images/superclip_screen.png"
+  teaser: "/assets/images/superclip_screen.PNG"
 sidebar:
   - title: "Project Info"
     image:
     image_alt:
     text: "Created a side project/business, and to learn about cross platform deployment."
 gallery:
-  - url: "/assets/images/superclip_screen.png"
-    image_path: "/assets/images/superclip_screen.png"
+  - url: "/assets/images/superclip_screen.PNG"
+    image_path: "/assets/images/superclip_screen.PNG"
     alt: "screenshot 1"
   - url: "/assets/images/superclip_screen_2.png"
     image_path: "/assets/images/superclip_screen_2.png"
