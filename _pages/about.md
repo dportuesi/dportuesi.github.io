@@ -12,7 +12,16 @@ tags: [Domenic Portuesi, author, developer,software engineer,michigan tech, comp
 ---
 
 Hello there!
-My name is Domenic Portuesi, and I am a Software Engineer and Android Developer. Currently, I have experience with C# and .NET, specifically ASP .NET, Angular, and REST with Web API 2. I am proficient with Java, as well as Android Studio and Android SDK.
+My name is Domenic Portuesi, and I am a Software Engineer, Android/mobile Developer, and Fullstack Developer. Currently, I have experience with the following frameworks:
+
+-C# and .NET 
+-ASP .NET 
+-REST with Web API 2
+-Javascript
+-React js
+-Node.js
+-Java
+-Android Native
 
 Want to hire me? Check out my [Resume!](https://drive.google.com/file/d/1rzwqXF4DggwHhCBnyyes-1DM2-GSz_lq/view?usp=sharing) You can also shoot me an email at dportuesi@gmail.com.
 
