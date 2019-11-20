@@ -6,11 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme                    : minimal-mistakes-jekyll
 locale                   : "en"
 title                    : "Domenic Portuesi"
 title_separator          : "-"
 name                     : "Domenic Portuesi"
-description              : "Portfolio for Domenic Portuesi, Fullstack Developer. Maker of Android apps."
+description              : "Portfolio for Domenic Portuesi, Fullstack Web Developer. Maker of Android apps."
 url                      : "https://www.domenicportuesi.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/dportuesi/dportuesi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,7 +79,7 @@ analytics:
 author:
   name             : "Domenic Portuesi"
   avatar           : "https://avatars0.githubusercontent.com/u/2602097?s=460&v=4"
-  bio              : "Java and C# Software Engineer, Android Developer and PC gamer."
+  bio              : "Full Stack Web Developer, Android Developer and Amateur Photographer."
   location         : "Michigan, U.S."
   email            : "dportuesi@gmail.com"
   uri              :
@@ -86,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "dportuesi"
+  facebook         :
   foursquare       :
   github           : "dportuesi"
   google_plus      :
@@ -183,6 +184,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:

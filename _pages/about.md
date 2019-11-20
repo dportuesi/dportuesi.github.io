@@ -16,14 +16,17 @@ My name is Domenic Portuesi, and I am a Software Engineer, Android/mobile Develo
 
 * C# and .NET 
 * ASP .NET 
-* REST with Web API 2
+* REST with Web API 2 and Node js
 * Javascript
 * React js
 * Node.js
 * Java
 * Android Native
+* AWS, including Node js Microservices, DynamoDB, Cognito, and More
 
-Want to hire me? Check out my [Resume!](https://drive.google.com/file/d/1rzwqXF4DggwHhCBnyyes-1DM2-GSz_lq/view?usp=sharing) You can also shoot me an email at dportuesi@gmail.com.
+I am driven by fluid user design, a slick and responsive customer experience, and a robust, scalable architecture.
+
+Want to hire me? Check out my [Resume!](https://drive.google.com/file/d/1rzwqXF4DggwHhCBnyyes-1DM2-GSz_lq/view?usp=sharing) You can also shoot me an email at dportuesi@gmail.com, I'm always looking for more software or photography projects.
 
 Currently, I am a Computer Science student attending Michigan Tech University.
 

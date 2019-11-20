@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Software"
+    url: /software/
+  - title: "Photography"
+    url: https://www.instagram.com/domenicportuesi/
   - title: "About"
     url: /about/
   # - title: "About"
