@@ -26,8 +26,6 @@ My name is Domenic Portuesi, and I am a Software Engineer, Android/mobile Develo
 
 I am driven by fluid user design, a slick and responsive customer experience, and a robust, scalable architecture.
 
-Want to hire me? Check out my [Resume!](https://drive.google.com/file/d/1rzwqXF4DggwHhCBnyyes-1DM2-GSz_lq/view?usp=sharing) You can also shoot me an email at dportuesi@gmail.com, I'm always looking for more software or photography projects.
-
-Currently, I am a Computer Science student attending Michigan Tech University.
-
 I am an avid backpacker/hiker. I enjoy paintball in the summer and snowboarding in the winter.
+
+Want to hire me? Check out my [Resume!](https://drive.google.com/file/d/1rzwqXF4DggwHhCBnyyes-1DM2-GSz_lq/view?usp=sharing) You can also shoot me an email at dportuesi@gmail.com, I'm always looking for more software or photography projects.

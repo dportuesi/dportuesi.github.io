@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: "/assets/images/header.jpg"
-excerpt: "Full Stack Software Engineer and Web Developer.<br>Maker of Android apps.<br>Amateur Photographer."
+excerpt: "Full Stack Software Engineer and Web Developer.<br>Maker of Android apps."
 gallery:
   - url: /assets/images/feature_1.jpg
     image_path: /assets/images/feature_1.jpg
@@ -28,7 +28,6 @@ Some of my skills include:
 
 - Full stack web development
 - Android and React Native development
-- Photography
 
 You can view my projects on the [portfolio](/software/) page and more [about](/about/) me.
 
