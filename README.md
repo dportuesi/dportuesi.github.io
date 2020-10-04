@@ -5,5 +5,5 @@ My personal site forked from the [minimal mistakes](https://github.com/mmistakes
 https://www.domenicportuesi.com
 
 ## Running
-Can be ran with ```jekyll serve```
+Can be ran with ```jekyll serve```\
 More info on the [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) readme.
