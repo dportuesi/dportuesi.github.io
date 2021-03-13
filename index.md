@@ -31,6 +31,6 @@ Some of my skills include:
 
 You can view my projects on the [portfolio](/software/) page and more [about](/about/) me.
 
-[Resume]({{ "https://drive.google.com/file/d/1SKQbk8uRAHvoBmc2XTSDJTZS6gDW9W4L/view?usp=sharing" | absolute_url }}){: .btn .btn--success .btn--large}
+[Resume]({{ "https://drive.google.com/file/d/1jzjqi3DrhAUuWnKoZQKQjL0-T_cMTcpc/view" | absolute_url }}){: .btn .btn--success .btn--large}
 
 
